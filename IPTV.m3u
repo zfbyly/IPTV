@@ -131,9 +131,9 @@ http://itv.ahau.edu.cn/hls/hls184a516.m3u8
 http://itv.ahau.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-name="中数世界地理",世界地理
 http://itv.ahau.edu.cn/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-name="中数央视台球",央视台球
+#EXTINF:-1 tvg-name="中数CCTV央视台球",央视台球
 http://itv.ahau.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-name="中数文化精品",文化精品
+#EXTINF:-1 tvg-name="中数央视精品",文化精品
 http://itv.ahau.edu.cn/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-name="足球频道",足球频道
 http://itv.ahau.edu.cn/hls/zqhd.m3u8
