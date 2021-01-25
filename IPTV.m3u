@@ -137,9 +137,9 @@ http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 http://itv.ahau.edu.cn/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-name="足球频道",足球频道
 http://itv.ahau.edu.cn/hls/zqhd.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
+#EXTINF:-1 tvg-name="中数快乐垂钓",快乐垂钓
 http://itv.ahau.edu.cn/hls/hls186a69.m3u8
-#EXTINF:-1 tvg-name="茶友频道",茶友频道
+#EXTINF:-1 tvg-name="中数茶频道",茶友频道
 http://itv.ahau.edu.cn/hls/hls186a70.m3u8
 #EXTINF:-1 tvg-name="法治天地",法治天地
 http://itv.ahau.edu.cn/hls/hls184a89.m3u8
