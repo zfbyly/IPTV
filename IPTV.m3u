@@ -143,3 +143,5 @@ http://itv.ahau.edu.cn/hls/hls186a69.m3u8
 http://itv.ahau.edu.cn/hls/hls186a70.m3u8
 #EXTINF:-1 tvg-name="法治天地",法治天地
 http://itv.ahau.edu.cn/hls/hls184a89.m3u8
+#EXTINF:-1 tvg-name="都市剧场",都市剧场
+http://itv.ahau.edu.cn/hls/hls185a95.m3u8
