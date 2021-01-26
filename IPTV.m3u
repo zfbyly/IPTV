@@ -109,8 +109,6 @@ http://itv.ahau.edu.cn/hls/gedocu.m3u8
 http://itv.ahau.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 tvg-name="CGTNDocumentary",环球纪录
 http://itv.ahau.edu.cn/hls/hls67a44.m3u8
-#EXTINF:-1 tvg-name="全纪实",全景纪实
-http://itv.ahau.edu.cn/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-name="中数第一剧场",第一剧场
 http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-name="中数风云足球",风云足球
@@ -119,23 +117,13 @@ http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
 http://itv.ahau.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-name="中数怀旧剧场",怀旧剧场
 http://itv.ahau.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 tvg-name="中数女性时尚",女性时尚
-http://itv.ahau.edu.cn/hls/hls184a522.m3u8
-#EXTINF:-1 tvg-name="中数风云剧场",风云剧场
-http://itv.ahau.edu.cn/hls/hls184a516.m3u8
 #EXTINF:-1 tvg-name="中数风云音乐",风云音乐
 http://itv.ahau.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-name="中数世界地理",世界地理
-http://itv.ahau.edu.cn/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-name="中数CCTV央视台球",央视台球
 http://itv.ahau.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-name="中数央视精品",文化精品
-http://itv.ahau.edu.cn/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-name="中数快乐垂钓",快乐垂钓
 http://itv.ahau.edu.cn/hls/hls186a69.m3u8
 #EXTINF:-1 tvg-name="中数茶频道",茶友频道
 http://itv.ahau.edu.cn/hls/hls186a70.m3u8
 #EXTINF:-1 tvg-name="法治天地",法治天地
 http://itv.ahau.edu.cn/hls/hls184a89.m3u8
-#EXTINF:-1 tvg-name="都市剧场",都市剧场
-http://itv.ahau.edu.cn/hls/hls185a95.m3u8
