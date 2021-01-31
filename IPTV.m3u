@@ -99,14 +99,6 @@ http://itv.ahau.edu.cn/hls/schd.m3u8
 http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1,中国教育
 http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1,每日影院 
-rtp://239.3.1.111:8001
-#EXTINF:-1,幸福剧场 
-rtp://239.3.1.112:8001
-#EXTINF:-1,幸福娱乐 
-rtp://239.3.1.113:8001
-#EXTINF:-1,风尚生活 
-rtp://239.3.1.114:8001
 #EXTINF:-1,高清电影
 http://itv.ahau.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,冬奥纪实
@@ -127,5 +119,3 @@ http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 http://itv.ahau.edu.cn/hls/hls186a69.m3u8
 #EXTINF:-1,茶友频道
 http://itv.ahau.edu.cn/hls/hls186a70.m3u8
-#EXTINF:-1,足球频道
-http://itv.ahau.edu.cn/hls/zqhd.m3u8
