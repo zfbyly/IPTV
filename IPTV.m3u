@@ -83,7 +83,7 @@ http://itv.ahau.edu.cn/hls/tjhd.m3u8
 http://itv.ahau.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1,tvg-name="广西卫视",广西卫视
 http://itv.ahau.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1,tvg-name="重新卫视",重庆卫视
+#EXTINF:-1,tvg-name="重庆卫视",重庆卫视
 http://itv.ahau.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1,tvg-name="旅游卫视",海南卫视
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
@@ -113,7 +113,7 @@ http://itv.ahau.edu.cn/hls/hls67a44.m3u8
 http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1,tvg-name="风云音乐",风云音乐
 http://itv.ahau.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1,tvg-name="V央视台球",央视台球
+#EXTINF:-1,tvg-name="央视台球",央视台球
 http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 #EXTINF:-1,tvg-name="快乐垂钓",快乐垂钓
 http://itv.ahau.edu.cn/hls/hls186a69.m3u8
