@@ -91,8 +91,6 @@ http://itv.ahau.edu.cn/hls/jlhd.m3u8
 http://itv.ahau.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1,tvg-name="四川卫视",四川卫视
 http://itv.ahau.edu.cn/hls/schd.m3u8
-#EXTINF:-1,tvg-name="甘肃卫视",甘肃卫视
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1,tvg-name="CCTV5+",体育赛事
 http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1,tvg-name="中国教育1台",中国教育
@@ -117,5 +115,7 @@ http://itv.ahau.edu.cn/hls/hls184a573.m3u8
 http://itv.ahau.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1,tvg-name="央视台球",央视台球
 http://itv.ahau.edu.cn/hls/hls184a574.m3u8
+#EXTINF:-1,tvg-name="风云足球",风云足球
+http://hdtv.haust.edu.cn/hls/hls20.m3u8
 #EXTINF:-1,tvg-name="快乐垂钓",快乐垂钓
 http://itv.ahau.edu.cn/hls/hls186a69.m3u8
