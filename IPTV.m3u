@@ -37,7 +37,7 @@ http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
 http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-name="中国教育1台",中国教育
 http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影",高清电影
+#EXTINF:-1 tvg-name="高清电影",高清电影
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰中文
 http://hdtv.haust.edu.cn/hls/hls254.m3u8
@@ -109,13 +109,13 @@ http://hdtv.haust.edu.cn/hls/jlhd.m3u8
 http://hdtv.haust.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 http://hdtv.haust.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-name="中数第一剧场",第一剧场
+#EXTINF:-1 tvg-name="第一剧场",第一剧场
 http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-#EXTINF:-1 tvg-name="中数风云剧场",风云剧场
+#EXTINF:-1 tvg-name="风云剧场",风云剧场
 http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-name="中数风云音乐",风云音乐
+#EXTINF:-1 tvg-name="风云音乐",风云音乐
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-name="中数怀旧剧场",怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场",怀旧剧场
 http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-#EXTINF:-1 tvg-name="中数风云足球",风云足球
+#EXTINF:-1 tvg-name="风云足球",风云足球
 http://hdtv.haust.edu.cn/hls/hls184a510.m3u8
