@@ -31,6 +31,8 @@ http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CGTN",中国环球 
+http://hdtv.haust.edu.cn/hls/hls185a571.m3u8
 #EXTINF:-1 tvg-name="CGTNDocumentary",环球纪录
 http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",体育赛事
