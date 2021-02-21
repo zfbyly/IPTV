@@ -123,9 +123,10 @@ http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 tvg-name="世界地理",世界地理
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
+
+#EXTINF:-1 tvg-name="怀旧剧场",怀旧剧场
+http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-name="风云足球",风云足球
 http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-name="央视台球",央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场",怀旧剧场
-http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
