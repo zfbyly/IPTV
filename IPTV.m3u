@@ -129,3 +129,13 @@ http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 http://hdtv.haust.edu.cn/hls/hls184a510.m3u8
 #EXTINF:-1 tvg-name="央视台球",央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
+#EXTINF:-1 tvg-name="央视文化精品",文化精品
+http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
+#EXTINF:-1 tvg-name="兵器科技",兵器科技
+http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
+#EXTINF:-1 tvg-name="女性时尚",女性时尚
+http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
+http://hdtv.haust.edu.cn/hls/hls186a69.m3u8
+#EXTINF:-1 tvg-name="茶频道",茶友频道
+http://hdtv.haust.edu.cn/hls/hls186a70.m3u8
