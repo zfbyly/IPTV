@@ -68,3 +68,8 @@ CCTV-17,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 女性时尚,http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
 快乐垂钓,http://hdtv.haust.edu.cn/hls/hls186a69.m3u8
 茶友频道,http://hdtv.haust.edu.cn/hls/hls186a70.m3u8
+全景纪实,http://hdtv.haust.edu.cn/hls/hls184a639.m3u8 
+生活时尚,http://hdtv.haust.edu.cn/hls/hls184a91.m3u8 
+金色频道,http://hdtv.haust.edu.cn/hls/hls184a90.m3u8 
+都市剧场,http://hdtv.haust.edu.cn/hls/hls185a95.m3u8 
+法治天地,http://hdtv.haust.edu.cn/hls/hls184a89.m3u8 
