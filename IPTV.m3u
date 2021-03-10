@@ -139,3 +139,13 @@ http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
 http://hdtv.haust.edu.cn/hls/hls186a69.m3u8
 #EXTINF:-1 tvg-name="茶频道",茶友频道
 http://hdtv.haust.edu.cn/hls/hls186a70.m3u8
+#EXTINF:-1 tvg-name="全纪实",全景纪实
+http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
+#EXTINF:-1 tvg-name="生活时尚",生活时尚
+http://hdtv.haust.edu.cn/hls/hls184a91.m3u8 
+#EXTINF:-1 tvg-name="欢笑剧场",欢笑剧场
+http://hdtv.haust.edu.cn/hls/hls185a97.m3u8 
+#EXTINF:-1 tvg-name="游戏风云",游戏风云
+http://hdtv.haust.edu.cn/hls/hls184a637.m3u8 
+#EXTINF:-1 tvg-name="MAX极速汽车",极速汽车
+http://hdtv.haust.edu.cn/hls/hls184a94.m3u8
