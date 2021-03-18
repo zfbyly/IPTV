@@ -155,7 +155,7 @@ http://hdtv.haust.edu.cn/hls/hls185a97.m3u8
 http://hdtv.haust.edu.cn//hls/hls184a636.m3u8 
 #EXTINF:-1 tvg-name="游戏风云",游戏风云
 http://hdtv.haust.edu.cn/hls/hls184a637.m3u8 
-#EXTINF:-1 tvg-name="极速汽车",极速汽车
+#EXTINF:-1 tvg-name="MAX极速汽车",极速汽车
 http://hdtv.haust.edu.cn/hls/hls184a94.m3u8 
 #EXTINF:-1 tvg-name="足球频道",足球频道
 http://hdtv.haust.edu.cn//hls/zqhd.m3u8  
