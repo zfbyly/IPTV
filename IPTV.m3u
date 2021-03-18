@@ -115,25 +115,25 @@ http://hdtv.haust.edu.cn/hls/jlhd.m3u8
 http://hdtv.haust.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
 http://hdtv.haust.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-name="第一剧场",第一剧场
+#EXTINF:-1 tvg-name="中数第一剧场",第一剧场
 http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-#EXTINF:-1 tvg-name="风云剧场",风云剧场
+#EXTINF:-1 tvg-name="中数风云剧场",风云剧场
 http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-name="风云音乐",风云音乐
+#EXTINF:-1 tvg-name="中数风云音乐",风云音乐
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-name="世界地理",世界地理
+#EXTINF:-1 tvg-name="中数世界地理",世界地理
 http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场",怀旧剧场
+#EXTINF:-1 tvg-name="中数怀旧剧场",怀旧剧场
 http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-#EXTINF:-1 tvg-name="风云足球",风云足球
+#EXTINF:-1 tvg-name="中数风云足球",风云足球
 http://hdtv.haust.edu.cn/hls/hls184a510.m3u8
-#EXTINF:-1 tvg-name="央视台球",央视台球
+#EXTINF:-1 tvg-name="中数CCTV央视台球",央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-name="央视精品",文化精品
+#EXTINF:-1 tvg-name="中数央视精品",文化精品
 http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
-#EXTINF:-1 tvg-name="兵器科技",兵器科技
+#EXTINF:-1 tvg-name="中数兵器科技",兵器科技
 http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
-#EXTINF:-1 tvg-name="女性时尚",女性时尚
+#EXTINF:-1 tvg-name="中数女性时尚",女性时尚
 http://hdtv.haust.edu.cn/hls/hls184a522.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
 http://hdtv.haust.edu.cn/hls/hls186a69.m3u8
